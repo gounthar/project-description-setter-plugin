@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+   Set the project description from a file in the workspace
+</div>
